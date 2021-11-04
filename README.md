@@ -1,4 +1,5 @@
 # How to make a pretty prompt in Windows
+!(https://github.com/oliversteidel/prettyprompt/blob/main/images/prettyprompt.jpg)
 
 ## Step 1
 
