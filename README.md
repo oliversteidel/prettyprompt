@@ -1,4 +1,5 @@
 # How to make a pretty prompt in Windows
+
 ![](https://github.com/oliversteidel/prettyprompt/blob/main/images/prettyprompt.jpg)
 
 ## Step 1 - Get Windows Terminal
@@ -69,4 +70,4 @@ To fix this run powershell as administrator and set ExecutionPolicy to unrestric
 
 ---
 
-If you like to customize a theme or create your own theme, you find information on https://ohmyposh.dev/docs/configure
+If you like to customize a theme or create your own theme, you find information on <br> https://ohmyposh.dev/docs/configure
