@@ -38,7 +38,7 @@
 ## Step 3 - Allow Powershell scripts
 
 <br>
-When you start your terminal, there might be an error, if running scripts is disabled on your system (which is the dafault).<br>
+When you start your terminal, there might be an error, if running scripts is disabled on your system (which is the default).<br>
 To fix this run powershell as administrator and set ExecutionPolicy to unrestricted:
 
 ```
