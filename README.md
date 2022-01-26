@@ -39,11 +39,13 @@
 
 <br>
 When you start your terminal, there might be an error, if running scripts is disabled on your system (which is the default).<br>
-To fix this run powershell as administrator and set ExecutionPolicy to unrestricted:
+To fix this run powershell as administrator and set ExecutionPolicy to RemoteSigned:
 
 ```
-    Set-ExecutionPolicy Unrestricted
+    Set-ExecutionPolicy RemoteSigned
 ```
+
+For further information about Powershell ExecutionPolicy you can read the [Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2).
 
 ---
 
