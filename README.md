@@ -45,7 +45,7 @@ To fix this run powershell as administrator and set ExecutionPolicy to RemoteSig
     Set-ExecutionPolicy RemoteSigned
 ```
 
-For further information about Powershell ExecutionPolicy you can read the [Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2).
+Find further information about Powershell ExecutionPolicy in the [Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2).
 
 ---
 
@@ -53,8 +53,8 @@ For further information about Powershell ExecutionPolicy you can read the [Docum
 
 <br>
 
-- go to the [Oh My Posh Docs](https://ohmyposh.dev/docs/fonts) and download a nerd font
-- they recommend <strong>Meslo LGM NF</strong> nerd font which includes all the icons you will need for the themes
+- go to the [this GitHub repo](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts) and download a nerd font
+- the nerd font **Meslo LGM NF** is recommended which includes all the icons you will need for the themes
 - extract the downloaded ZIP-file and paste it into your windows fonts folder
 
 ---
@@ -72,4 +72,4 @@ For further information about Powershell ExecutionPolicy you can read the [Docum
 
 ---
 
-If you like to customize a theme or create your own theme, you find information on <br> https://ohmyposh.dev/docs/configure
+If you like to customize a theme or create your own theme, you find information on <br> https://ohmyposh.dev/docs/config-overview
